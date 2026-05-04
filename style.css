@@ -1,0 +1,23 @@
+.navButton {
+    -fx-background-color: #f0ffff;
+    -fx-background-radius: 25px;
+    -fx-text-fill: #b31b1b;
+    -fx-font-weight: bold;
+    -fx-font-size: 21px;
+    -fx-min-width: 200px;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 45px;
+    
+}
+ 
+.navButton:hover {
+    -fx-background-color: #b31b1b;
+    -fx-background-radius: 25;
+    -fx-text-fill: #f0ffff;
+    -fx-font-weight: bold;
+    -fx-font-size: 21px;
+    -fx-min-width: 200px;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 45px;
+        
+}
